@@ -1,6 +1,0 @@
-fastapi
-uvicorn[standard]
-qdrant-client
-numpy
-requests
-pydantic
